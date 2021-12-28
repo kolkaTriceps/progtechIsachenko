@@ -1,7 +1,5 @@
 package main;
 
-import java.util.SortedMap;
-
 public class Main {
 
     public static void main(String[] args) {
@@ -10,7 +8,5 @@ public class Main {
         System.out.println("BBB");
 
         System.out.println("CCC");
-
-        System.out.println("fdaaobodqwskjd;n;as/d");
     }
 }
