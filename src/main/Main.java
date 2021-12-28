@@ -8,5 +8,7 @@ public class Main {
         System.out.println("BBB");
 
         System.out.println("CCC");
+        
+        System.out.println("This code doesn`t make any sense")
     }
 }
