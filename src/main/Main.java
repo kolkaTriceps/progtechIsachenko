@@ -6,5 +6,7 @@ public class Main {
         System.out.println("AAA");
 
         System.out.println("BBB");
+
+        System.out.println("CCC");
     }
 }
